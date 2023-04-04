@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Remera",
+		"description": "Remera de algodon",
+		"price": 1000,
+		"thumbnail": "https://coderhouse.com",
+		"code": "123456",
+		"stock": 10,
+		"id": 1
+	},
+	{
+		"id": 5,
+		"code": 123,
+		"title": "Coca Cola",
+		"description": "Bebida gaseosa",
+		"price": 100,
+		"stock": 10,
+		"thumbnail": "https://www.coca-cola.com.ar/content/dam/journey/ar/es/private/brands/coca-cola/coca-cola.png"
+	}
+]
