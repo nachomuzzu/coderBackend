@@ -1,0 +1,92 @@
+[
+	{
+		"id": 1,
+		"code": 123,
+		"title": "Pepsi",
+		"description": "Bebida gaseosa",
+		"price": 90,
+		"stock": 10,
+		"thumbnail": "https://carrefourar.vtexassets.com/arquivos/ids/203069/7791813555025_02.jpg?v=637571183902370000"
+	},
+	{
+		"id": 2,
+		"code": 123,
+		"title": "Coca Cola",
+		"description": "Bebida gaseosa",
+		"price": 100,
+		"stock": 10,
+		"thumbnail": "https://www.coca-cola.com.ar/content/dam/journey/ar/es/private/brands/coca-cola/coca-cola.png"
+	},
+	{
+		"id": 3,
+		"code": 123,
+		"title": "Pepsi",
+		"description": "Bebida gaseosa",
+		"price": 90,
+		"stock": 10,
+		"thumbnail": "https://carrefourar.vtexassets.com/arquivos/ids/203069/7791813555025_02.jpg?v=637571183902370000"
+	},
+	{
+		"id": 4,
+		"code": 123,
+		"title": "Coca Cola",
+		"description": "Bebida gaseosa",
+		"price": 100,
+		"stock": 10,
+		"thumbnail": "https://www.coca-cola.com.ar/content/dam/journey/ar/es/private/brands/coca-cola/coca-cola.png"
+	},
+	{
+		"id": 5,
+		"code": 123,
+		"title": "Pepsi",
+		"description": "Bebida gaseosa",
+		"price": 90,
+		"stock": 10,
+		"thumbnail": "https://carrefourar.vtexassets.com/arquivos/ids/203069/7791813555025_02.jpg?v=637571183902370000"
+	},
+	{
+		"id": 6,
+		"code": 123,
+		"title": "Coca Cola",
+		"description": "Bebida gaseosa",
+		"price": 100,
+		"stock": 10,
+		"thumbnail": "https://www.coca-cola.com.ar/content/dam/journey/ar/es/private/brands/coca-cola/coca-cola.png"
+	},
+	{
+		"id": 7,
+		"code": 123,
+		"title": "Pepsi",
+		"description": "Bebida gaseosa",
+		"price": 90,
+		"stock": 10,
+		"thumbnail": "https://carrefourar.vtexassets.com/arquivos/ids/203069/7791813555025_02.jpg?v=637571183902370000"
+	},
+	{
+		"id": 8,
+		"code": 123,
+		"title": "Coca Cola",
+		"description": "Bebida gaseosa",
+		"price": 100,
+		"stock": 10,
+		"thumbnail": "https://www.coca-cola.com.ar/content/dam/journey/ar/es/private/brands/coca-cola/coca-cola.png"
+	},
+	{
+		"id": 9,
+		"code": 123,
+		"title": "Pepsi",
+		"description": "Bebida gaseosa",
+		"price": 90,
+		"stock": 10,
+		"thumbnail": "https://carrefourar.vtexassets.com/arquivos/ids/203069/7791813555025_02.jpg?v=637571183902370000"
+	},
+	{
+		"id": 10,
+		"code": 123,
+		"title": "Coca Cola",
+		"description": "Bebida gaseosa",
+		"price": 100,
+		"stock": 10,
+		"thumbnail": "https://www.coca-cola.com.ar/content/dam/journey/ar/es/private/brands/coca-cola/coca-cola.png"
+	}
+]
