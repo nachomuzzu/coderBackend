@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "timestamp": 1670430787708,
+    "name": "Coca Cola",
+    "description": "Gaseosa sabor cola",
+    "photo": "www.cocacola.com",
+    "price": 200,
+    "stock": 5
+  },
+  {
+	"id": 2,
+    "timestamp": 1670430787708,
+    "name": "Pepsi",
+    "description": "Gaseosa sabor cola",
+    "photo": "www.pepsi.com",
+    "price": 190,
+    "stock": 5
+  }
+]
